@@ -6,7 +6,7 @@ This is the full-stack application for the PICT Mental Health Support System (PM
 
 ## 🌐 Github and Links
 
-- Live Link: pmhs.vercel.app
+- Live Link: https://pmhs.vercel.app
 - Github: https://github.com/ayushhhh13/PMHS-Frontend
 
 ---
@@ -76,6 +76,8 @@ npm run dev
 ## Profile Page
 <img width="1470" alt="Screenshot 2025-05-02 at 2 42 44 PM" src="https://github.com/user-attachments/assets/23b28131-8dcf-4448-ae0c-7bf7b43cbcde" />
 
+## Counselor Dashboard
+<img width="1457" alt="Screenshot 2025-05-02 at 2 45 44 PM" src="https://github.com/user-attachments/assets/946ff280-057d-4a4e-9f4c-4fdc6afe67ea" />
 
 
 
